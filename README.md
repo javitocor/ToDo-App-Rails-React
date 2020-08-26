@@ -19,7 +19,7 @@
 [![Issues][issues-shield]][issues-url] 
 ![Hireable](https://cdn.rawgit.com/hiendv/hireable/master/styles/default/yes.svg) 
 
-# Rails React Recipes
+# Rails React ToDo App
 
 >  Practice project following the instructions from: https://medium.com/@pamit/todo-list-building-a-react-app-with-rails-api-7a3027907665
 
